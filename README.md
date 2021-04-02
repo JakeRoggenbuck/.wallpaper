@@ -1,6 +1,6 @@
 # .wallpaper
 
-A lot of cool wallpaper, some from friends, others from reddit
+A lot of cool wallpaper from @DonQuixano, @Camerooooon and myself
 
 ![Image preview](https://github.com/JakeRoggenbuck/.wallpaper/blob/master/preview.png)
 
