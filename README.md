@@ -1,6 +1,6 @@
 # .wallpaper
 
-A lot of cool wallpaper from @DonQuixano, @Camerooooon and myself
+A lot of cool wallpaper from [@DonQuixano](https://github.com/DonQuixano), [@Camerooooon](https://github.com/Camerooooon) and myself
 
 ![Image preview](https://github.com/JakeRoggenbuck/.wallpaper/blob/master/preview.png)
 
