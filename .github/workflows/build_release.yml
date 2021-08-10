@@ -17,4 +17,5 @@ jobs:
       uses: ncipollo/release-action@v1
       with:
         artifacts: "release.zip"
+        automatic_release_tag: "latest"
         token: ${{ secrets.GITHUB_TOKEN }}
