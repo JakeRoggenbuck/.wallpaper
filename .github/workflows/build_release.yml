@@ -8,6 +8,7 @@ jobs:
     - name: Archive Release
       uses: thedoctor0/zip-release@master
       with:
+        path: 'walls'
         type: 'tar'
         filename: 'release.zip'
         exclusions: '*.git*'
