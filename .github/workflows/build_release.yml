@@ -1,4 +1,4 @@
-name: Make zip
+name: Build Release
 
 # Controls when the workflow will run
 on:
@@ -28,4 +28,4 @@ jobs:
           prerelease: true
           title: "Build"
           files: |
-            walls/*
+            walls/
