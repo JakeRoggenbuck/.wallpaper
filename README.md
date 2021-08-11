@@ -2,7 +2,7 @@
 
 A lot of cool wallpaper from [@DonQuixano](https://github.com/DonQuixano), [@Camerooooon](https://github.com/Camerooooon) and myself
 
-![Image preview](https://github.com/JakeRoggenbuck/.wallpaper/blob/master/preview.png)
+![Image preview](https://github.com/JakeRoggenbuck/.wallpaper/blob/main/preview.png)
 
 # Contributing
 ### If you have cool wallpapers you would like to share, make a PR!
