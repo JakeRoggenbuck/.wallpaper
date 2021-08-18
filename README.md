@@ -11,6 +11,8 @@ A lot of cool wallpaper from [@DonQuixano](https://github.com/DonQuixano), [@Cam
 - Add the cover image (See command below)
 - Make the PR!
 
+# Ownership
+If you own an image and would not like it to be distributed this way, make an issue and it will be removed.
 
 # Generate cover image
 command to generate preview of all wallpapers
